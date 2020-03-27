@@ -1,0 +1,31 @@
+.quotes{
+    height: 100px;
+    width: 100%;
+    border: 1px solid;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.fontAwesome{
+    color: red;;
+}
+.handIcon{
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
+.button-Cls{
+    margin: 10px;
+    text-align: center;
+}
+.button-Cls button{
+    margin: 0px 5px;
+}
+.Mock{
+    text-align: center;
+}
+
+.Mock p{
+    color: red;
+}
