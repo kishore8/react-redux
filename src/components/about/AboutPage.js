@@ -78,7 +78,7 @@ class AboutPage extends React.Component {
         }
         this.setState(x => ({
             arr: sampleArr
-        }));x
+        }));
     }
 
 
